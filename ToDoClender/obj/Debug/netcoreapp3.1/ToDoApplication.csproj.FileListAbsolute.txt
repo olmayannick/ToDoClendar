@@ -1,0 +1,55 @@
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.exe
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.deps.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.runtimeconfig.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.runtimeconfig.dev.json
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csprojAssemblyReference.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form1.resources
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form2.resources
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form3.resources
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form4.resources
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.AssemblyInfo.cs
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.pdb
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.genruntimeconfig.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\Interop.DataCollectorTasks.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.ResolveComReference.cache
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\Interop.DataCollectorTasks.dll
+C:\Users\emirh\Desktop\emirhan\yazılım\C#\Form Çalışmaları\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.CopyComplete
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.exe
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.deps.json
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.runtimeconfig.json
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.runtimeconfig.dev.json
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.pdb
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.AssemblyReference.cache
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.ResolveComReference.cache
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form1.resources
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form2.resources
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form3.resources
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.Form4.resources
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.GenerateResource.cache
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.AssemblyInfoInputs.cache
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.AssemblyInfo.cs
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.CopyComplete
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.dll
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.pdb
+C:\Users\ahmi_\Desktop\C-Sharp--ToDo-Desktop-Application-main\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.genruntimeconfig.cache
